@@ -1,0 +1,1 @@
+Stripe.api = ENV["stripe_api_key"]
